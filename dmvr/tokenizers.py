@@ -16,7 +16,7 @@
 import abc
 from typing import Optional, Sequence, Union
 
-import clip.simple_tokenizer
+import CLIP.clip.simple_tokenizer
 import tensorflow as tf
 import tensorflow_text
 
