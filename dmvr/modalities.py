@@ -19,9 +19,9 @@ from typing import Optional
 from typing import Union
 
 from absl import logging
-from dmvr import builders
-from dmvr import processors
-from dmvr import tokenizers
+from DMVR.dmvr import builders
+from DMVR.dmvr import processors
+from DMVR.dmvr import tokenizers
 import tensorflow as tf
 
 
