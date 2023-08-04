@@ -16,8 +16,8 @@
 
 from typing import Any, Optional, Sequence, Union
 
-from dmvr import builders
-from dmvr import tokenizers
+from DMVR.dmvr import builders
+from DMVR.dmvr import tokenizers
 import tensorflow as tf
 
 
